@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+.fuente {font-size: 100px;
+}
+
+
+.portada1 {
+	background-image: url("../img/MuchaTseBle.jpeg"); 
+	color: white;}
+.portada2 {
+	background-image: url("../img/FELIZ CUMPLEAÑOS FERXXO.jpeg"); 
+	color: white;}
+.portada3 {
+	background-image: url("../img/Mezcla.jpeg"); 
+	color: white;}
+
+
+.color1 {background-color: #00A650;}
+.color2 {background-color: #6AC802;}
+
+.imagenes {
+	height: 350px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.white {
+	color:white;
+	font-weight:600;
+}
+
+.img1 {background-image: url( "../img/1677194893609.jpg");}
+.img2 {background-image: url( "../img/1677194893545.jpg");}
+.img3 {background-image: url( "../img/1677194893515.jpg");}
+.img4 {background-image: url( "../img/1677194893410.jpg");}
+.img5 {background-image: url( "../img/1677194893446.jpg");}
+.img6 {background-image: url( "../img/1677194893580.jpg");}
+.img7 {background-image: url( "../img/1677194893377.jpg");}
+.img8 {background-image: url( "../img/descarga (66).jpeg");}
+
+.img9 {background-image:url( "../img/599bbfc9d19af423f0707878b40eef11.1000x1000x1.jpg")}
+.img10 {background-image:url( "../img/artworks-yW1TfSYYlB06gFKW-xbZ9ZQ-t500x500.jpg")}
+.img11 {background-image:url( "../img/bd86669a5fdfad7d1a4f681742d6efe6.1000x1000x1.jpg")}
+.img12 {background-image:url( "../img/407d8a8e559e49495b449728de765d65.1000x1000x1.jpg")}
+.img13 {background-image:url( "../img/ab67616d0000b27321eb816414eda91435564a26.jpeg")}
+.img14 {background-image:url( "../img/Morat-and-FEID.jpg")}
+.img15 {background-image:url( "../img/artworks-PZFuFCg3s8oz4gke-hyEoFg-t500x500.jpeg")}
+.img16 {background-image:url( "../img/porfa-remix.jpg")}
+.img17 {background-image:url( "../img/ab67616d0000b273245031aa8736b00e0ce8cc17.jpeg")}
+.img18 {background-image:url( "../img/06766c806324ecbf5b8d69a6f4aae58c.1000x1000x1.png")}
+
+.img19 {background-image:url( "../img/12aeb0bd11c899f89f55a57bcc7fbf93.999x999x1.jpg")}
+.img20 {background-image:url( "../img/1200x1200bf-60.jpg")}
+.img21 {background-image:url( "../img/ab67616d0000b27318ee027c16a592fe89ab28ca.jpeg")}
+.img22 {background-image:url( "../img/ab67616d0000b2733d7b95838b533131d1db6292.jpeg")}
+.img23 {background-image:url( "../img/1200x1200bf-60 (1).jpg")}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+	
+}
+
+.fa:hover {
+  opacity: 0.7;
+  color: #fff;
+  text-decoration: none;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-instagram {
+  background: #F6339C;
+  color: white;
+}
+
+.fa-youtube {
+  background: #BB0000;
+  color: white;	
+}
